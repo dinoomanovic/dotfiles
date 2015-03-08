@@ -1,0 +1,29 @@
+UXTerm*font: -*-tamsyn-medium-r-normal-*-*-87-*-*-*-*-*-*
+UXTerm*background: #FFFFFF
+UXTerm*foreground: #000000
+UXTerm*colorUL: #4E4FFF
+!BLACK
+UXTerm*color0: #FFFFFF
+UXTerm*color8: #9A9A9A
+! RED
+UXTerm*color1: #121212
+UXTerm*color9: #1C1C1C
+! GREEN
+UXTerm*color2: #A5A5A5
+UXTerm*color10: #A4A4A4
+!YELLOW
+UXTerm*color3: #777777
+UXTerm*color11: #646464
+! BLUE
+UXTerm*color4: #999999
+UXTerm*color12: #7C7C7C
+! MAGENTA
+UXTerm*color5: #4C4C4C
+UXTerm*color13: #515151
+! CYAN
+UXTerm*color6: #2B2B2B
+UXTerm*color14: #322929
+!WHITE
+UXTerm*color7: #000000
+UXTerm*color15: #101010
+
